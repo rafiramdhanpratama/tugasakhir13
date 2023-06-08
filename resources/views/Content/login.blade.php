@@ -1,6 +1,16 @@
 @extends('Layout.layout')
 
 @section('content')
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Source Code Landing Page</title>
+</head>
+<body>
+    <h1>Welcome to the Source Code Landing Page!</h1>
+    <img src="resources/views/Images/12.jpg" class="img-fluid" alt="...">
+</body>
+</html>
 <div class="container mt-5">
     <h3>login</h3>
     <form action="post-login" method="POST">
