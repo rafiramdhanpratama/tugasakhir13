@@ -37,7 +37,7 @@
                             Delete</button>
                     </form>
                 </td>
-                <td><a href="{{'print-produk'}}" class="btn btn-warning">Print</a> </td>
+                
             </tr>
             @endforeach
             </tbody>
